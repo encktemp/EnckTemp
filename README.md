@@ -64,16 +64,3 @@ HTML, CSS, TailwindCSS, JavaScript, JQuery, PHP, Laravel, React.js, Next.js, Nod
 
 <br><hr><br>
 
-### 📊 Estatísticas
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=encktemp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="210"/>
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=encktemp&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" height="200"/>
-    </td>
-  </tr>
-</table>
-
