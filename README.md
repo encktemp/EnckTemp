@@ -13,7 +13,7 @@ Me chamo **Luiz Möeller**, tenho 35 anos e sou natural de **São Paulo/SP**. So
 💻 **Principais Tecnologias**:  
 HTML, CSS, TailwindCSS, JavaScript, JQuery, PHP, Laravel, React.js, Next.js, Node.js, API Rest, MySQL, Kotlin e Java.  
 
-📖 Atualmente, também dedico meu tempo ao **[Blog da LCM Websites](https://blog.lcmwebsites.com.br/)**, onde compartilho dicas, tutoriais e estratégias sobre **Desenvolvimento Web e Marketing Digital**.  
+📖 Atualmente, também dedico meu tempo ao **[Blog da LCM Sistemas](https://lcmsistemas.com.br/blog/)**, onde compartilho dicas, tutoriais e estratégias sobre **Desenvolvimento Web e Marketing Digital**.  
 
 🚀 Fora do universo tech, gosto de passar tempo com minha família e amigos e explorar conteúdos na **[Wikipédia](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal)** nas horas vagas.
 
