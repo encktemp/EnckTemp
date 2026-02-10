@@ -41,25 +41,25 @@ HTML, CSS, TailwindCSS, JavaScript, JQuery, PHP, Laravel, React.js, Next.js, Nod
     justify-content: left;
     align-items: left;
 ">
-  <img src="https://luizmoeller.lcmwebsites.com.br/images/logo-tecnologias/codeIgniter_php.webp" alt="CodeIgniter PHP" title="CodeIgniter PHP" width="100px">
-  <img src="https://luizmoeller.lcmwebsites.com.br/images/logo-tecnologias/laravel_php.webp" alt="Laravel PHP" title="Laravel PHP" width="100px">
-  <img src="https://luizmoeller.lcmwebsites.com.br/images/logo-tecnologias/node_js.webp" alt="Node.js" title="Node.js" width="100px">
-  <img src="https://luizmoeller.lcmwebsites.com.br/images/logo-tecnologias/mongo_db_banco_de_dados.webp" alt="Mongo DB" title="Mongo DB" width="100px">
-  <img src="https://luizmoeller.lcmwebsites.com.br/images/logo-tecnologias/my_sql_banco_de_dados.webp" alt="MySQL" title="MySQL" width="100px">
+  <img src="https://luizmoeller.lcmsistemas.com.br/images/logo-tecnologias/codeIgniter_php.webp" alt="CodeIgniter PHP" title="CodeIgniter PHP" width="100px">
+  <img src="https://luizmoeller.lcmsistemas.com.br/images/logo-tecnologias/laravel_php.webp" alt="Laravel PHP" title="Laravel PHP" width="100px">
+  <img src="https://luizmoeller.lcmsistemas.com.br/images/logo-tecnologias/node_js.webp" alt="Node.js" title="Node.js" width="100px">
+  <img src="https://luizmoeller.lcmsistemas.com.br/images/logo-tecnologias/mongo_db_banco_de_dados.webp" alt="Mongo DB" title="Mongo DB" width="100px">
+  <img src="https://luizmoeller.lcmsistemas.com.br/images/logo-tecnologias/my_sql_banco_de_dados.webp" alt="MySQL" title="MySQL" width="100px">
   
-  <img src="https://luizmoeller.lcmwebsites.com.br/images/logo-tecnologias/javascript.webp" alt="JavaScript" title="JavaScript" width="100px">
-  <img src="https://luizmoeller.lcmwebsites.com.br/images/logo-tecnologias/react_js.webp" alt="React.js" title="React.js" width="100px">
-  <img src="https://luizmoeller.lcmwebsites.com.br/images/logo-tecnologias/next_js.webp" alt="Next.js" title="Next.js" width="100px">
-  <img src="https://luizmoeller.lcmwebsites.com.br/images/logo-tecnologias/vite.webp" alt="Vite" title="Vite" width="100px">
-  <img src="https://luizmoeller.lcmwebsites.com.br/images/logo-tecnologias/jquery.webp" alt="jQuery" title="jQuery" width="100px">
+  <img src="https://luizmoeller.lcmsistemas.com.br/images/logo-tecnologias/javascript.webp" alt="JavaScript" title="JavaScript" width="100px">
+  <img src="https://luizmoeller.lcmsistemas.com.br/images/logo-tecnologias/react_js.webp" alt="React.js" title="React.js" width="100px">
+  <img src="https://luizmoeller.lcmsistemas.com.br/images/logo-tecnologias/next_js.webp" alt="Next.js" title="Next.js" width="100px">
+  <img src="https://luizmoeller.lcmsistemas.com.br/images/logo-tecnologias/vite.webp" alt="Vite" title="Vite" width="100px">
+  <img src="https://luizmoeller.lcmsistemas.com.br/images/logo-tecnologias/jquery.webp" alt="jQuery" title="jQuery" width="100px">
 
-  <img src="https://luizmoeller.lcmwebsites.com.br/images/logo-tecnologias/tailwind_css.webp" alt="Tailwind CSS" title="Tailwind CSS" width="100px">
-  <img src="https://luizmoeller.lcmwebsites.com.br/images/logo-tecnologias/html_5.webp" alt="HTML 5" title="HTML 5" width="100px">
-  <img src="https://luizmoeller.lcmwebsites.com.br/images/logo-tecnologias/css_3.webp" alt="CSS 3" title="CSS 3" width="100px">
-  <img src="https://luizmoeller.lcmwebsites.com.br/images/logo-tecnologias/figma.webp" alt="Figma" title="Figma" width="100px">
-  <img src="https://luizmoeller.lcmwebsites.com.br/images/logo-tecnologias/kotlin.webp" alt="Kotlin" title="Kotlin" width="100px">
-  <img src="https://luizmoeller.lcmwebsites.com.br/images/logo-tecnologias/git.webp" alt="Git" title="Git" width="100px">
-  <img src="https://luizmoeller.lcmwebsites.com.br/images/logo-tecnologias/github.webp" alt="GitHub" title="GitHub" width="100px">
+  <img src="https://luizmoeller.lcmsistemas.com.br/images/logo-tecnologias/tailwind_css.webp" alt="Tailwind CSS" title="Tailwind CSS" width="100px">
+  <img src="https://luizmoeller.lcmsistemas.com.br/images/logo-tecnologias/html_5.webp" alt="HTML 5" title="HTML 5" width="100px">
+  <img src="https://luizmoeller.lcmsistemas.com.br/images/logo-tecnologias/css_3.webp" alt="CSS 3" title="CSS 3" width="100px">
+  <img src="https://luizmoeller.lcmsistemas.com.br/images/logo-tecnologias/figma.webp" alt="Figma" title="Figma" width="100px">
+  <img src="https://luizmoeller.lcmsistemas.com.br/images/logo-tecnologias/kotlin.webp" alt="Kotlin" title="Kotlin" width="100px">
+  <img src="https://luizmoeller.lcmsistemas.com.br/images/logo-tecnologias/git.webp" alt="Git" title="Git" width="100px">
+  <img src="https://luizmoeller.lcmsistemas.com.br/images/logo-tecnologias/github.webp" alt="GitHub" title="GitHub" width="100px">
 </div>
 
 <br><hr><br>
