@@ -26,9 +26,9 @@ HTML, CSS, TailwindCSS, JavaScript, JQuery, PHP, Laravel, React.js, Next.js, Nod
 🔹 **Facebook**: [facebook.com/kukamoeller](https://facebook.com/kukamoeller)  
 🔹 **TikTok**: [@luizmoeller](https://www.tiktok.com/@luizmoeller)  
 🔹 **X**: [@LCMSistemas](https://x.com/LCMSistemas)  
-🔹 **Pinterest**: [@lcmwebsites](https://br.pinterest.com/lcmwebsites)  
+🔹 **Pinterest**: [@lcmsistemas](https://br.pinterest.com/lcmsistemas)  
 🔹 **YouTube**: [@lcmwebsites](https://youtube.com/@lcmwebsites)  
-🔹 **Blog**: [LCM Websites](https://blog.lcmwebsites.com.br)  
+🔹 **Blog**: [LCM Sistemass](https://blog.lcmwebsites.com.br)  
  
 <br><hr><br>
 
