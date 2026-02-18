@@ -34,15 +34,27 @@ HTML, CSS, TailwindCSS, JavaScript, JQuery, PHP, Laravel, React.js, Next.js, Nod
 
 ### 🤖 Linguagens e Tecnologias
 
-🎨 Front-End
+### 🎨 Front-End
 <div style="display: flex; flex-wrap: wrap; gap: 15px;"> <img src="https://luizmoeller.lcmsistemas.com.br/logos-tecnologias/html_5.webp" alt="HTML5" title="HTML5" width="100px"> <img src="https://luizmoeller.lcmsistemas.com.br/logos-tecnologias/css_3.webp" alt="CSS3" title="CSS3" width="100px"> <img src="https://luizmoeller.lcmsistemas.com.br/logos-tecnologias/javascript.webp" alt="JavaScript" title="JavaScript" width="100px"> <img src="https://luizmoeller.lcmsistemas.com.br/logos-tecnologias/react_js.webp" alt="React.js" title="React.js" width="100px"> <img src="https://luizmoeller.lcmsistemas.com.br/logos-tecnologias/next_js.webp" alt="Next.js" title="Next.js" width="100px"> <img src="https://luizmoeller.lcmsistemas.com.br/logos-tecnologias/jquery.webp" alt="jQuery" title="jQuery" width="100px"> <img src="https://luizmoeller.lcmsistemas.com.br/logos-tecnologias/vite.webp" alt="Vite" title="Vite" width="100px"> <img src="https://luizmoeller.lcmsistemas.com.br/logos-tecnologias/tailwind_css.webp" alt="Tailwind CSS" title="Tailwind CSS" width="100px"> </div>
-⚙️ Back-End
+
+<br><hr><br>
+
+### ⚙️ Back-End
 <div style="display: flex; flex-wrap: wrap; gap: 15px;"> <img src="https://luizmoeller.lcmsistemas.com.br/logos-tecnologias/node_js.webp" alt="Node.js" title="Node.js" width="100px"> <img src="https://luizmoeller.lcmsistemas.com.br/logos-tecnologias/laravel_php.webp" alt="Laravel PHP" title="Laravel PHP" width="100px"> <img src="https://luizmoeller.lcmsistemas.com.br/logos-tecnologias/codeigniter_php.webp" alt="CodeIgniter PHP" title="CodeIgniter PHP" width="100px"> <img src="https://luizmoeller.lcmsistemas.com.br/logos-tecnologias/kotlin.webp" alt="Kotlin" title="Kotlin" width="100px"> </div>
-🗄️ Banco de Dados
+
+<br><hr><br>
+
+### 🗄️ Banco de Dados
 <div style="display: flex; flex-wrap: wrap; gap: 15px;"> <img src="https://luizmoeller.lcmsistemas.com.br/logos-tecnologias/my_sql_banco_de_dados.webp" alt="MySQL" title="MySQL" width="100px"> <img src="https://luizmoeller.lcmsistemas.com.br/logos-tecnologias/mongo_db_banco_de_dados.webp" alt="MongoDB" title="MongoDB" width="100px"> </div>
-🚀 DevOps & Versionamento
+
+<br><hr><br>
+
+### 🚀 DevOps & Versionamento
 <div style="display: flex; flex-wrap: wrap; gap: 15px;"> <img src="https://luizmoeller.lcmsistemas.com.br/logos-tecnologias/git.webp" alt="Git" title="Git" width="100px"> <img src="https://luizmoeller.lcmsistemas.com.br/logos-tecnologias/github.webp" alt="GitHub" title="GitHub" width="100px"> </div>
-🎨 UI / UX & Prototipação
+
+<br><hr><br>
+
+### 🎨 UI / UX & Prototipação
 <div style="display: flex; flex-wrap: wrap; gap: 15px;"> <img src="https://luizmoeller.lcmsistemas.com.br/logos-tecnologias/figma.webp" alt="Figma" title="Figma" width="100px"> </div>
 
 <br><hr><br>
