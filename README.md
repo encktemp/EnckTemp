@@ -21,7 +21,7 @@ HTML, CSS, TailwindCSS, JavaScript, JQuery, PHP, Laravel, React.js, Next.js, Nod
 
 ## 🌐 Conecte-se comigo
 
-🔹 **LinkedIn**: [linkedin.com/in/luiz-möeller-27147647](https://www.linkedin.com/in/luiz-m%C3%B6eller-27147647)  
+🔹 **LinkedIn**: [linkedin.com/in/luiz-möeller-27147647](https://bit.ly/4hePpM9)  
 🔹 **Instagram**: [@luizmoeller](https://www.instagram.com/luizmoeller)  
 🔹 **Facebook**: [facebook.com/kukamoeller](https://facebook.com/kukamoeller)  
 🔹 **TikTok**: [@luizmoeller](https://www.tiktok.com/@luizmoeller)  
