@@ -28,7 +28,7 @@ HTML, CSS, TailwindCSS, JavaScript, JQuery, PHP, Laravel, React.js, Next.js, Nod
 🔹 **X**: [@LCMSistemas](https://x.com/LCMSistemas)  
 🔹 **Pinterest**: [@lcmsistemas](https://br.pinterest.com/lcmsistemas)  
 🔹 **YouTube**: [@lcmwebsites](https://youtube.com/@lcmwebsites)  
-🔹 **Blog**: [LCM Sistemass](https://blog.lcmwebsites.com.br)  
+🔹 **Blog**: [LCM Sistemass](https://lcmsistemas.com.br/blog)  
  
 <br><hr><br>
 
