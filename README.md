@@ -6,7 +6,7 @@
 
 Me chamo **Luiz Möeller**, tenho 35 anos e sou natural de **São Paulo/SP**. Sou apaixonado por tecnologia e desenvolvimento web, sempre buscando compartilhar meu conhecimento com a comunidade.  
 
-🎥 No meu canal do YouTube **[LCM Websites](https://youtube.com/@lcmwebsites)**, ensino a criar projetos web do zero, enquanto no **[Instagram](https://www.instagram.com/luizmoeller)** compartilho insights, dicas e estratégias sobre desenvolvimento e marketing digital.  
+🎥 No meu canal do YouTube **[LCM Websites](https://youtube.com/@lcmsistemas)**, ensino a criar projetos web do zero, enquanto no **[Instagram](https://www.instagram.com/luizmoeller)** compartilho insights, dicas e estratégias sobre desenvolvimento e marketing digital.  
 
 🎓 **Graduado em Sistemas de Informação** pela Anhembi Morumbi, atuo na **[LCM Sistemas](https://lcmsistemas.com.br/)** como **Desenvolvedor de Software, UI/UX Designer, Redator, Tradutor e Especialista em SEO**. Minha experiência inclui design gráfico/digital, gestão de tráfego, mídias sociais, edição de vídeo e tecnologia.  
 
@@ -21,13 +21,13 @@ HTML, CSS, TailwindCSS, JavaScript, JQuery, PHP, Laravel, React.js, Next.js, Nod
 
 ## 🌐 Conecte-se comigo
 
-🔹 **LinkedIn**: [linkedin.com/in/luiz-möeller-27147647](https://bit.ly/4hePpM9)  
+🔹 **LinkedIn**: [linkedin.com/in/luiz-möeller-27147647](https://www.linkedin.com/in/luiz-m%C3%B6eller-27147647)  
 🔹 **Instagram**: [@luizmoeller](https://www.instagram.com/luizmoeller)  
 🔹 **Facebook**: [facebook.com/kukamoeller](https://facebook.com/kukamoeller)  
 🔹 **TikTok**: [@luizmoeller](https://www.tiktok.com/@luizmoeller)  
 🔹 **X**: [@LCMSistemas](https://x.com/LCMSistemas)  
 🔹 **Pinterest**: [@lcmsistemas](https://br.pinterest.com/lcmsistemas)  
-🔹 **YouTube**: [@lcmwebsites](https://youtube.com/@lcmwebsites)  
+🔹 **YouTube**: [@lcmwebsites](https://youtube.com/@lcmsistemas)  
 🔹 **Blog**: [LCM Sistemass](https://lcmsistemas.com.br/blog)  
  
 <br><hr><br>
