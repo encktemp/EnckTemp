@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="[https://lcmsistemas.com.br/wp-content/uploads/2026/02/engenharia-software-alto-impacto-lcm-sistemas.png](https://luizmoeller.lcmsistemas.com.br/capa_portfolio_luiz_moeller.png)" 
+       alt="LCM Sistemas - Desenvolvimento de Software e Arquitetura de Sistemas"
+       width="100%">
+</p>
+
 # 👨🏻‍💻 Luiz Möeller  
 
 **`Desenvolvedor Full Stack | Especialista em SEO`**  
