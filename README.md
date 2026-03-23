@@ -100,7 +100,7 @@ HTML, CSS, TailwindCSS, JavaScript, JQuery, PHP, Laravel, React.js, Next.js, Nod
 
 ### 📋 Gestão & Produtividade
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;"> <img src="https://luizmoeller.lcmsistemas.com.br/logos-tecnologias/trello.webp" alt="Trello" title="Trello" width="100px"> <img src="https://luizmoeller.lcmsistemas.com.br/logos-tecnologias/jira.webp" alt="Jira" title="Jira" width="100px"> </div>
+<div style="display: flex; flex-wrap: wrap; gap: 20px;"> <img src="https://luizmoeller.lcmsistemas.com.br/logos-tecnologias/trello.webp" alt="Trello" title="Trello" width="100px"> <img src="https://luizmoeller.lcmsistemas.com.br/logos-tecnologias/jira_atlassian.webp" alt="Jira" title="Jira" width="100px"> </div>
 
 <br><hr><br>
 
