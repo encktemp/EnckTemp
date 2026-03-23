@@ -27,14 +27,14 @@ HTML, CSS, TailwindCSS, JavaScript, JQuery, PHP, Laravel, React.js, Next.js, Nod
 
 ## 🌐 Conecte-se comigo
 
-🔹 **LinkedIn**: [linkedin.com/in/luiz-möeller-27147647](https://www.linkedin.com/in/luiz-m%C3%B6eller-27147647)
-🔹 **Instagram**: [@luizmoeller](https://www.instagram.com/luizmoeller)
-🔹 **Facebook**: [facebook.com/kukamoeller](https://facebook.com/kukamoeller)
-🔹 **TikTok**: [@luizmoeller](https://www.tiktok.com/@luizmoeller)
-🔹 **X**: [@LCMSistemas](https://x.com/LCMSistemas)
-🔹 **Pinterest**: [@lcmsistemas](https://br.pinterest.com/lcmsistemas)
-🔹 **YouTube**: [@lcmsistemas](https://youtube.com/@lcmsistemas)
-🔹 **Blog**: [LCM Sistemass](https://lcmsistemas.com.br/blog)
+🔹 **LinkedIn**: [linkedin.com/in/luiz-möeller-27147647](https://www.linkedin.com/in/luiz-m%C3%B6eller-27147647)<br>
+🔹 **Instagram**: [@luizmoeller](https://www.instagram.com/luizmoeller)<br>
+🔹 **Facebook**: [facebook.com/kukamoeller](https://facebook.com/kukamoeller)<br>
+🔹 **TikTok**: [@luizmoeller](https://www.tiktok.com/@luizmoeller)<br>
+🔹 **X**: [@LCMSistemas](https://x.com/LCMSistemas)<br>
+🔹 **Pinterest**: [@lcmsistemas](https://br.pinterest.com/lcmsistemas)<br>
+🔹 **YouTube**: [@lcmsistemas](https://youtube.com/@lcmsistemas)<br>
+🔹 **Blog**: [LCM Sistemass](https://lcmsistemas.com.br/blog)<br>
 
 <br><hr><br>
 
@@ -103,4 +103,3 @@ HTML, CSS, TailwindCSS, JavaScript, JQuery, PHP, Laravel, React.js, Next.js, Nod
 <div style="display: flex; flex-wrap: wrap; gap: 20px;"> <img src="https://luizmoeller.lcmsistemas.com.br/logos-tecnologias/trello.webp" alt="Trello" title="Trello" width="100px"> <img src="https://luizmoeller.lcmsistemas.com.br/logos-tecnologias/jira_atlassian.webp" alt="Jira" title="Jira" width="100px"> </div>
 
 <br><hr><br>
-
